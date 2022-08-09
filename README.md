@@ -1,3 +1,5 @@
+Extract the 7z Compressed file using 7z software - https://www.7-zip.org/a/7z2201-x64.exe
+
 # Clothing-Store-Management-System
 
 The Clothing Store Management System is a simple PHP/MySQLi project that can help a clothing business or apparel businesses to manage their stocks and sales management. The system stores the list of products, suppliers, and the receiving transaction between the store and supplier. The clothing business can monitor their available stocks in each item or products that they are selling using the clothing store management system and also this system has a feature to manage their transaction with their customer which is the point of sale (POS) feature that stores the transaction to the database to allow the system calculate or update the available stock of each product of the clothing store. The POS feature of this system also generates a simple unofficial receipt of the transaction that has enough details of the transaction for the customer proof for any instances that may occur. The printable unofficial receipt has a responsive width feature so the receipt paper size won't be a problem when using this system.
